@@ -1,0 +1,6 @@
+21/11/2023 11:52:54 - https://qualitec.cloudns.cl/login- Online: true
+21/11/2023 11:52:54 - https://www.alura.com.br- Online: true
+21/11/2023 11:52:59 - https://qualitec.cloudns.cl/login- Online: true
+21/11/2023 11:52:59 - https://www.alura.com.br- Online: true
+21/11/2023 11:53:04 - https://qualitec.cloudns.cl/login- Online: true
+21/11/2023 11:53:04 - https://www.alura.com.br- Online: true
